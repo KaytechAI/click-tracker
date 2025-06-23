@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "click-tracker-463802",
+  "private_key_id": "0cec3deb17048654d317f48bdf7d8bd4d249843d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDbJQ0isJz62f+6\n2duSIkVKBYCi1uG5Sx5jlBnGkFMBTg+W9yBzEc6nYS4m2k89fwl2BKDg29jgL/Dy\nQD5Xe2S8UETBE2S7+FY4MTy8DNomHVnpjFj86UZe2CSGO+zXPofhwt9aiOoj4Q0/\n5LKeRajw/XC5shCgbNjqC3/Rm0l5Ebl8/xIxQ75mn4UWSyhjtOf0uFqrNJxXEjO+\nXmb6nXA9AdkSPtw4oGqHL68pPVlxiziSSjMxhGzSQqaOZv4qLh/mF5XR3JFemyhp\nWqdY2fAYqkwcUJFNLagjZgfyr4BChAFfMolVbThMoDdXzqXsB0YNcyc7gACfUVnI\nY0qDUYqNAgMBAAECggEACEGEFit7LoQp+zsb54x8+cXtS7U2uclXsr6wnedwCRuM\nwM48nbktBOdHWtVcqN9xVs3j1bTSndeQhz/eWWNfryyC+pclc2NutB0+wYLmcQso\nCQFtlNGhAg+4iIoXaSCE8/9odLu1vnZLDn4qMIZFUBbsOUK5F6IiJecbAKWOBg6P\n/biXGfkLYBYTij8ExvMFIXTu7LXwd6TPFST2ifqUg/neAlGSwpT6kla9Gx75XV4v\n8YArCSrtoz0g00n8CaTcy1niUjpCftzDVWA87dHaCd7cieefyx7Xnzt6Neas6oQn\nvhcsi2Jw8tcWvII4xerIg9TNyUHGx4tNXOyRbarCIQKBgQD/WnUHbWmctsBNl/Ru\ng2cATxY80FqxfG+Wx/pQrEdIMKDJo9upOz73FONlIGvGnOI9HPRpOlrIvkAPdTLO\nhqOjP964QtC3WyIgZIf6UK6xz2ET5ZQ2yaxidSWHsRifNJ7vM96afdurwl83+jEP\nbSzVt2OLbBFC2a1Vh3pjlp91BQKBgQDbsx7ZdLmJxh4WzJBE7Aq1T1wxYnx6ZfXM\nJPDs1napmQp7+IpH0IMHegrRQVGtwOcOxreCSKnRD3jjk0L6sacPCAf1tLpHmMDd\nfkiI8XwHdyAeG/fL+Oo6lBzkEPj8GKu0uRMq0XPcPsROuhuJaq45UaxRQQOGyQ3J\nIRXddv416QKBgQDYFxCaLHkHaY/rGgB71S9BD6xd4mQddpRoIOsvgdsAuEYY3VVy\nLPTn2wFj/r+13+WEmhArTHqvDnDfo+pO45lu+QndHI3L3I9QokKADe8IAdrBH7MB\nekErQL91yORxNfKZsmdajc9r1p0FnfAOgfFDGmJfBiDFVbhdfLyRslFWkQKBgHbo\n0MajnZRLLZfrah5Tn0wYwu5bvsHEk6/FQrz9KsaKdZk5oSZTXcfbLyWo89tWL/jY\nZxRV3cuwUx7hYnwrUR8amqxLABOmQqTfJ8Uu5pFn0XNacdjtRWElLynlYc2YUL8E\n+LHRIaNQOZHeuu66VcfiQ6DKzmzSPurgRGRUdiyZAoGBAISO/pFvIfwTni7fUeEX\nERRzVC6eW8qa1NMbfHveK7b95cJbJAXMnAa5kYTlZwRB5NG6izpeHRepH75dwHrV\nsgym2UxoY97Eevn/QqmK6bIkERO6Pg0rWMERqeY4gC2OXUNE0pX3meJAuNk1lGgD\ns1QmypILry23JRFqHMBZjpkt\n-----END PRIVATE KEY-----\n",
+  "client_email": "click-tracker-sa@click-tracker-463802.iam.gserviceaccount.com",
+  "client_id": "102933194802715674738",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/click-tracker-sa%40click-tracker-463802.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
